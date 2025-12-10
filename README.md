@@ -43,6 +43,30 @@ python3 main.py --url https://kakashispiritnews.my.id/ --wordlist wordlists/word
 
 Saya pakai ke website pribadi. Threadsnya 5, karena wordlistnya ada 10, tiap thread bakal proses 2 words.
 
+### Output
+```
+Nazrin mulai!
+Nge-dowse hidden path/dir di https://kakashispiritnews.my.id/ pakai 5 thread...
+Wordlist: wordlists/wordlist.txt...
+Nge-dowse URL...: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  2.07it/s]
+Nge-dowse URL...: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  2.06it/s]
+Nge-dowse URL...: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  2.05it/s]
+Nge-dowse URL...: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  2.03it/s]
+Nge-dowse URL...: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  2.03it/s]
+Nge-dowse URL...: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  2.06it/s]
+Done. Hasilnya disimpan di result.txt███████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  2.07it/s]
+[+] Found:  https://kakashispiritnews.my.id/about (200)█████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  2.04it/s]
+[+] Found:  https://kakashispiritnews.my.id/Bermain-Touhou-di-Linux.html (200)
+[+] Found:  https://kakashispiritnews.my.id/sitemap.xml (200)
+[+] Found:  https://kakashispiritnews.my.id/Bermain-Touhou-di-Linux (200)
+[+] Found:  https://kakashispiritnews.my.id/sitemap (200)
+[+] Found:  https://kakashispiritnews.my.id/categories.html (200)
+[+] Found:  https://kakashispiritnews.my.id/index (200)
+[+] Found:  https://kakashispiritnews.my.id/about.html (200)
+[+] Found:  https://kakashispiritnews.my.id/index.html (200)
+[+] Found:  https://kakashispiritnews.my.id/categories (200)
+```
+
 ## Instalasi
 
 - Clone.
