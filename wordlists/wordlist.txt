@@ -1,0 +1,10 @@
+jurnal
+about
+dashboard
+accounts/login
+admin
+robots
+sitemap
+Bermain-Touhou-di-Linux
+index
+categories
